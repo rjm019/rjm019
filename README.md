@@ -5,7 +5,7 @@
 Full-stack • Líder de proyecto • DevOps entusiasta
 
 [![Perfil](https://img.shields.io/badge/LinkedIn-información-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME)
-[![Portafolio en vivo](https://img.shields.io/badge/Demo-Portafolio-⏩-0066ff?logo=githubpages&logoColor=white)](https://USUARIO.github.io/REPO)
+[![Portafolio en vivo]([https://img.shields.io/badge/Demo-Portafolio-⏩-0066ff?logo=githubpages&logoColor=white)](https://USUARIO.github.io/REPO](https://rjm019.github.io/))
 [![Email](https://img.shields.io/badge/ricardojimenez@micorreo.upp.edu.mx-envíame%20un%20email-EA4335?logo=gmail&logoColor=white)](mailto:ricardojimenez@micorreo.upp.edu.mx)
 
 ---
