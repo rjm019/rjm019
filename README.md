@@ -19,9 +19,9 @@ Full-stack • Líder de proyecto • DevOps entusiasta
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Stack | Demo / Código |
-|---|---|---|---|
-| **POS Dinámico para Restaurantes** | Arrastra mesas para unir/dividir cuentas, pagos parciales, inventario en tiempo real y pedidos vía QR que llegan directo a cocina. Panel de finanzas para dueños. | `Vue 3`, `Vite`, `TypeScript`, `Laravel 11`, `OAuth2` | [Repositorio]([https://github.com/USERNAME/pos](https://github.com/rjm019/pos)) |
+| Proyecto | Descripción | Stack 
+|---|---|---|
+| **POS Dinámico para Restaurantes** | Arrastra mesas para unir/dividir cuentas, pagos parciales, inventario en tiempo real y pedidos vía QR que llegan directo a cocina. Panel de finanzas para dueños. | `Vue 3`, `Vite`, `TypeScript`, `Laravel 11`, `OAuth2` 
 | **Taskly – Recordatorios de Voz** | App Android que convierte notas de voz en recordatorios con notificaciones automáticas. | `Kotlin`, `Jetpack Compose`, `Firebase` 
 | **Gestión de Invitados** | Invitaciones interactivas, registro de asistentes y pases con código QR. | `Vue 3`, `Laravel 10`, `AWS S3` 
 
