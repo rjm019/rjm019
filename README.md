@@ -4,7 +4,7 @@
 **Desarrollador de múltiples soluciones**  
 Full-stack • Líder de proyecto • DevOps entusiasta
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/AQUI_TU_LINKEDIN](https://www.linkedin.com/in/ricardo-yair-jim%C3%A9nez-mart%C3%ADnez-66424a221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-yair-jim%C3%A9nez-mart%C3%ADnez-66424a221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Visita el sitio](https://img.shields.io/static/v1?label=Visita&message=el%20sitio&color=a855f7&logo=githubpages&logoColor=white)](https://rjm019.github.io)
 [![Email](https://img.shields.io/badge/ricardojimenez@micorreo.upp.edu.mx-Env%C3%ADame%20un%20email-EA4335?logo=gmail&logoColor=white)](mailto:ricardojimenez@micorreo.upp.edu.mx)
 
@@ -43,7 +43,7 @@ Full-stack • Líder de proyecto • DevOps entusiasta
 |---|---|
 | **Email** | ricardojimenez@micorreo.upp.edu.mx |
 | **WhatsApp** | [+52 56 5590 8318](https://wa.me/525655908318) |
-| **LinkedIn** | [linkedin.com/in/AQUI_TU_LINKEDIN](https://www.linkedin.com/in/AQUI_TU_LINKEDIN) |
+| **LinkedIn** | [Ricardo Jimenez](https://www.linkedin.com/in/ricardo-yair-jim%C3%A9nez-mart%C3%ADnez-66424a221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
 | **GitHub** | [github.com/rjm019](https://github.com/rjm019) |
 
 ---
