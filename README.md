@@ -5,7 +5,7 @@
 [![Portafolio](https://img.shields.io/badge/Portafolio-rjm019.github.io-a855f7?logo=githubpages&logoColor=white)](https://rjm019.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-yair-jim%C3%A9nez-mart%C3%ADnez-66424a221)
 [![Correo](https://img.shields.io/badge/Correo-Escr%C3%ADbeme-EA4335?logo=gmail&logoColor=white)](mailto:ricardojimenez@micorreo.upp.edu.mx)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Mensaje-25D366?logo=whatsapp&logoColor=white)](https://wa.me/525655908318)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Mensaje-25D366?logo=whatsapp&logoColor=white)](https://wa.me/527713626544)
 
 ## Sobre mí
 
@@ -55,6 +55,6 @@ API que sincroniza el catálogo geoestadístico de estados del INEGI, con reinte
 | | |
 |---|---|
 | **Correo** | [ricardojimenez@micorreo.upp.edu.mx](mailto:ricardojimenez@micorreo.upp.edu.mx) |
-| **WhatsApp** | [+52 56 5590 8318](https://wa.me/525655908318) |
+| **WhatsApp** | [+52 771 362 6544](https://wa.me/527713626544) |
 | **LinkedIn** | [Ricardo Yair Jiménez Martínez](https://www.linkedin.com/in/ricardo-yair-jim%C3%A9nez-mart%C3%ADnez-66424a221) |
 | **Portafolio** | [rjm019.github.io](https://rjm019.github.io) |
